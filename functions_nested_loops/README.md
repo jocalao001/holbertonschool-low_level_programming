@@ -18,26 +18,37 @@
 
        Write a function that checks for lowercase character.
 
-### 4. When I was having that alphabet soup, I never thought that it would pay off:
+### 4. isalpha:
 
-       Write a program that prints the alphabet in lowercase, followed by a new line.
-### 5. Numbers:
+       Write a function that checks for alphabetic character.
 
-       Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+### 5. Sign:
 
-### 6. Numberz:
+       Write a function that prints the sign of a number.
 
-       Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+### 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you:
 
-### 7. Smile in the mirror:
+       Write a function that computes the absolute value of an integer.
 
-       Write a program that prints the lowercase alphabet in reverse, followed by a new line.
+### 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+:
 
-### 8. Hexadecimal:
+       Write a function that prints the last digit of a number.
 
-       Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
+### 8. I'm federal agent Jack Bauer, and today is the longest day of my life
+:
 
-### 9. Patience, persistence and perspiration make an unbeatable combination for success:
+       Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
-       Write a program that prints all possible combinations of single-digit numbers.
-       
+### 9. Learn your times table:
+
+       Write a function that prints the 9 times table, starting with 0.
+
+### 10. a + b:
+
+       Write a function that adds two integers and returns the result.
+
+### 11. 98 Battery Street, the OG:
+
+       Write a function that prints all natural numbers from n to 98, followed by a new line.
+

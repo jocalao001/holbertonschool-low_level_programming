@@ -14,9 +14,9 @@
 
        Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
-### 3. alphABET:
+### 3. islower:
 
-       Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+       Write a function that checks for lowercase character.
 
 ### 4. When I was having that alphabet soup, I never thought that it would pay off:
 

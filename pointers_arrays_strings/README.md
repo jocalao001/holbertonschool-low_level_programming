@@ -14,11 +14,11 @@
 ### 3. I do not fear computers. I fear the lack of them:
        Write a function that prints a string, followed by a new line, to stdout.
 
-###-0. 98 Battery st:
-       Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+### 4. I can only go one way. I've not got a reverse gear:
+       Write a function that prints a string, in reverse, followed by a new line.
 
-###-0. 98 Battery st:
-       Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+### 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes:
+       Write a function that reverses a string.
 
 ###-0. 98 Battery st:
        Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.

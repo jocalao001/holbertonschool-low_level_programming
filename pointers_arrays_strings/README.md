@@ -20,15 +20,14 @@
 ### 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes:
        Write a function that reverses a string.
 
-###-0. 98 Battery st:
-       Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+### 6. Half the lies they tell about me aren't true:
+       Write a function that prints every other character of a string, starting with the first character, followed by a new line.
 
-###-0. 98 Battery st:
-       Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+### 7. Winning is only half of it. Having fun is the other half:
+       Write a function that prints half of a string, followed by a new line.
 
-###-0. 98 Battery st:
-       Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+### 8. Arrays are not pointers:
+       Write a function that prints n elements of an array of integers, followed by a new line.
 
-###-0. 98 Battery st:
-       Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
-
+### 9. strcpy:
+       Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.

@@ -19,4 +19,11 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 
+/*
+ * Desc: containing  functions
+ *       used in the 02-pointers_arrays_strings directory.
+ */
+
+char *_strcat(char *dest, char *src);
+
 #endif

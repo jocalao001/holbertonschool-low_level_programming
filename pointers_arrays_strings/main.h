@@ -33,4 +33,11 @@ char *string_toupper(char *);
 char *cap_string(char *);
 char *leet(char *);
 
+/*
+ * Desc: containing  functions
+ *       used in the 03-pointers_arrays_strings directory.
+ */
+
+char *_memset(char *s, char b, unsigned int n);
+
 #endif

@@ -1,4 +1,4 @@
-# C - Static libraries
+# C - Structures, typedef
 
 ## Tasks
 
